@@ -1,0 +1,8 @@
+{
+    "scopeNames": {
+        "Account": "Employee"
+    },
+    "scopeNamesPlural": {
+        "Account": "Employees"
+    }
+}
