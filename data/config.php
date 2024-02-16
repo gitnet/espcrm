@@ -152,7 +152,7 @@ return [
   'b2cMode' => false,
   'theme' => 'Hazyblue',
   'themeParams' => (object) [
-    'navbar' => 'side'
+    'navbar' => 'top'
   ],
   'massEmailMaxPerHourCount' => 100,
   'massEmailMaxPerBatchCount' => NULL,
@@ -187,18 +187,18 @@ return [
       'name' => 'My Espo',
       'layout' => [
         0 => (object) [
-          'id' => 'default-activities',
-          'name' => 'Activities',
-          'x' => 2,
-          'y' => 2,
-          'width' => 2,
-          'height' => 4
-        ],
-        1 => (object) [
           'id' => 'default-stream',
           'name' => 'Stream',
           'x' => 0,
           'y' => 0,
+          'width' => 2,
+          'height' => 4
+        ],
+        1 => (object) [
+          'id' => 'default-activities',
+          'name' => 'Activities',
+          'x' => 2,
+          'y' => 2,
           'width' => 2,
           'height' => 4
         ]
@@ -290,9 +290,14 @@ return [
     0 => 'us',
     1 => 'de'
   ],
-  'cacheTimestamp' => 1708037917,
-  'microtime' => 1708037917.252182,
+  'cacheTimestamp' => 1708083339,
+  'microtime' => 1708083339.31078,
   'siteUrl' => 'http://localhost/espcrm',
   'fullTextSearchMinLength' => 4,
-  'appTimestamp' => 1708028778
+  'appTimestamp' => 1708028778,
+  'userThemesDisabled' => false,
+  'avatarsDisabled' => false,
+  'scopeColorsDisabled' => false,
+  'tabIconsDisabled' => false,
+  'dashletsOptions' => (object) []
 ];

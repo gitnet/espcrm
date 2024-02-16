@@ -3908,7 +3908,7 @@ Available placeholders:
       'shippingAddress' => 'Shipping Address',
       'description' => 'Description',
       'sicCode' => 'Sic Code',
-      'industry' => 'Industry',
+      'industry' => 'Work',
       'type' => 'Type',
       'contactRole' => 'Title',
       'contactIsInactive' => 'Inactive',
@@ -3991,7 +3991,16 @@ Available placeholders:
         'Travel' => 'Travel',
         'Venture Capital' => 'Venture Capital',
         'Wholesale' => 'Wholesale',
-        'Water' => 'Water'
+        'Water' => 'Water',
+        '' => '',
+        'Project Management' => 'Project Management',
+        'Sales and Marketing' => 'Sales and Marketing',
+        'Software Development' => 'Software Development',
+        'Customer Service' => 'Customer Service',
+        'Finance and Accounting' => 'Finance and Accounting',
+        'Human Resources' => 'Human Resources',
+        'Full Stack Developer' => 'Full Stack Developer',
+        'UI/UX' => 'UI/UX'
       ]
     ],
     'labels' => [

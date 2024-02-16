@@ -10,5 +10,37 @@
         "fullTextSearch": false,
         "countDisabled": false
     },
-    "optimisticConcurrencyControl": false
+    "optimisticConcurrencyControl": false,
+    "fields": {
+        "industry": {
+            "options": [
+                "",
+                "Project Management",
+                "Sales and Marketing",
+                "Software Development",
+                "Customer Service",
+                "Finance and Accounting",
+                "Human Resources",
+                "Healthcare",
+                "Education",
+                "Manufacturing",
+                "Full Stack Developer",
+                "UI/UX"
+            ],
+            "style": {
+                "": null,
+                "Project Management": null,
+                "Sales and Marketing": null,
+                "Software Development": null,
+                "Customer Service": null,
+                "Finance and Accounting": null,
+                "Human Resources": null,
+                "Healthcare": null,
+                "Education": null,
+                "Manufacturing": null,
+                "Full Stack Developer": null,
+                "UI/UX": null
+            }
+        }
+    }
 }

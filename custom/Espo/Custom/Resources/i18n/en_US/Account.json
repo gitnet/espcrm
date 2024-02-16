@@ -1,5 +1,24 @@
 {
     "labels": {
         "Create Account": "Create Employee"
+    },
+    "fields": {
+        "industry": "Work"
+    },
+    "options": {
+        "industry": {
+            "": "",
+            "Project Management": "Project Management",
+            "Sales and Marketing": "Sales and Marketing",
+            "Software Development": "Software Development",
+            "Customer Service": "Customer Service",
+            "Finance and Accounting": "Finance and Accounting",
+            "Human Resources": "Human Resources",
+            "Healthcare": "Healthcare",
+            "Education": "Education",
+            "Manufacturing": "Manufacturing",
+            "Full Stack Developer": "Full Stack Developer",
+            "UI/UX": "UI/UX"
+        }
     }
 }
