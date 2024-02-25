@@ -1,0 +1,6 @@
+[2024-02-25 00:04:00] ERROR: (HY000) SQLSTATE[HY000]: General error: 2006 MySQL server has gone away; GET /Settings; line: 76, file: C:\xampp\htdocs\espcrm\application\Espo\ORM\Executor\DefaultSqlExecutor.php  
+[2024-02-25 00:04:00] ERROR: (HY000) SQLSTATE[HY000]: General error: 2006 MySQL server has gone away; GET /I18n; line: 76, file: C:\xampp\htdocs\espcrm\application\Espo\ORM\Executor\DefaultSqlExecutor.php  
+[2024-02-25 00:04:04] ERROR: (2002) SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it; GET /Settings; line: 73, file: C:\xampp\htdocs\espcrm\application\Espo\ORM\PDO\MysqlPDOFactory.php  
+[2024-02-25 00:04:04] ERROR: (2002) SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it; GET /I18n; line: 73, file: C:\xampp\htdocs\espcrm\application\Espo\ORM\PDO\MysqlPDOFactory.php  
+[2024-02-25 00:06:50] ERROR: (2002) SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it; GET /Settings; line: 73, file: C:\xampp\htdocs\espcrm\application\Espo\ORM\PDO\MysqlPDOFactory.php  
+[2024-02-25 00:06:50] ERROR: (2002) SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it; GET /I18n; line: 73, file: C:\xampp\htdocs\espcrm\application\Espo\ORM\PDO\MysqlPDOFactory.php  
